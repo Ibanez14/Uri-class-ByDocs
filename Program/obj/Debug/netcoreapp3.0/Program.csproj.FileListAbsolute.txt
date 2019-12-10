@@ -9,3 +9,14 @@
 /home/sham/Program/obj/Debug/netcoreapp3.0/Program.AssemblyInfo.cs
 /home/sham/Program/obj/Debug/netcoreapp3.0/Program.dll
 /home/sham/Program/obj/Debug/netcoreapp3.0/Program.pdb
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\bin\Debug\netcoreapp3.0\Program.exe
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\bin\Debug\netcoreapp3.0\Program.deps.json
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\bin\Debug\netcoreapp3.0\Program.dll
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\bin\Debug\netcoreapp3.0\Program.pdb
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\obj\Debug\netcoreapp3.0\Program.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\obj\Debug\netcoreapp3.0\Program.dll
+C:\Users\sovsh\Desktop\Testing Application\URI Docs\Uri-class-ByDocs\Program\obj\Debug\netcoreapp3.0\Program.pdb
